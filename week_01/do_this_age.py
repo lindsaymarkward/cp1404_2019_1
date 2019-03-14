@@ -9,7 +9,6 @@ AGE_OF_MAJORITY = 21
 
 age = int(input("Age: "))
 if age >= AGE_OF_MAJORITY:
-    print("adult")
+    print("Adult")
 elif age < AGE_OF_MAJORITY:
-    print("child")
-
+    print("Child")
