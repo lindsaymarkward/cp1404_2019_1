@@ -1,0 +1,3 @@
+Phone,340,yes
+PC,1420.95,no
+Plant,24.5,yes
